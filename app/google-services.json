@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491398874108",
+    "firebase_url": "https://pulse-rate-aac0d.firebaseio.com",
+    "project_id": "pulse-rate-aac0d",
+    "storage_bucket": "pulse-rate-aac0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491398874108:android:6a91451c4ab4ac203e6879",
+        "android_client_info": {
+          "package_name": "com.example.retrieve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491398874108-82fqqfoliggjeh2lcc4quembbn8pm7h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSb0j6jTXEDg7OSq893rZwR_Gn_cXlxlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491398874108-82fqqfoliggjeh2lcc4quembbn8pm7h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
